@@ -1,0 +1,16 @@
+{
+    "name": "thomas/download",
+    "description": "none",
+    "type": "project",
+    "require": {
+        "michelf/php-markdown": "^1.8",
+        "curl/curl": "^1.9"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Thomas Le Goff",
+            "email": "thomaslegoffpro@gmail.com"
+        }
+    ]
+}
